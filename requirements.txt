@@ -1,0 +1,6 @@
+bip-utils
+mnemonic
+hdwallet
+pandas
+colorama
+openpyxl
